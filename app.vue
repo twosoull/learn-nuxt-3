@@ -1,6 +1,7 @@
 <template>
   <NuxtLayout>
     <NuxtPage />
+    <!-- <RouterView /> -->
     <!--layouts>default.vue의 slot부분-->
   </NuxtLayout>
 </template>
